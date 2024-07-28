@@ -12726,5 +12726,11 @@
     	"description": "Rollover unchecked todo items from the previous weekly note",
     	"author": "Shubham Sethi",
     	"repo" : "shsethi/obsidian-rollover-weekly-todos"
+    },
+	"id": "flow",
+	"name": "Flow",
+	"description": "Implements key processes in David Allen's Getting Things Done (GTD) methodology to help you manage your life so you can focus on what's important. (Closed source)",
+	"author": "Ben Phillips",
+	"repo": "tavva/flow"
     }
 ]
